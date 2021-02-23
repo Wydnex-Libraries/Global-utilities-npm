@@ -1,0 +1,22 @@
+{
+    "name": "global-utilities-npm",
+    "version": "1.0.0",
+    "description": "Utilidades globales de funcionamiento",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Wydnex-Libraries/Global-utilities-npm.git"
+    },
+    "keywords": [
+        "global"
+    ],
+    "author": "Juan Basilio <juan@wydnex.com>",
+    "license": "SEE LICENSE IN <LICENSE.md>",
+    "bugs": {
+        "url": "https://github.com/Wydnex-Libraries/Global-utilities-npm/issues"
+    },
+    "homepage": "https://github.com/Wydnex-Libraries/Global-utilities-npm#readme"
+}
